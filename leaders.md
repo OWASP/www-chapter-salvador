@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Leonardo Rosario](mailto:leonardo.rosario@owasp.org)
+* [Eugenio Nunes](mailto:eugenio.nunes@owasp.org)
