@@ -36,6 +36,7 @@ Atualmente, o OWASP Salvador é liderado por:
 * [Eugênio Nunes](mailto:eugenio.nunes@owasp.org)
 * [Daniel Guedes](mailto:daniel.guedes@owasp.org)
 * [Manoelito Filho](mailto:manoelito.filho@owasp.org)
+* [Wesley Sampaio](mailto:wesley.sampaio@owasp.org)
 
 
 ---------------------
