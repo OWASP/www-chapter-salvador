@@ -1,8 +1,8 @@
-# OWASP Belo Horizonte Chapter
+# OWASP Salvador Chapter
 
-![OWASP BH Logo](assets/images/owasp_ssa.png)
+![OWASP Salvador Logo](assets/images/owasp_ssa.png)
 
-Bem-vindo ao repositório oficial do capítulo OWASP de Salvado!
+Bem-vindo ao repositório oficial do capítulo OWASP de Salvador!
 
 ## Sobre
 
