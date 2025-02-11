@@ -9,7 +9,10 @@ meetup-group:
 
 ---
 
-<img src=assets/images/owasp_ssa.png></img>
+<br>
+<center>
+<img src="assets/images/owasp_ssa.png">
+</center>
 ## Bem-vindo ao OWASP Chapter Salvador
 Salvador, capital do estado da Bahia, é uma das cidades mais vibrantes do Brasil, conhecida por sua rica herança cultural, histórica e arquitetônica. Berço do sincretismo religioso, da música e da culinária afro-brasileira, Salvador é referência em diversidade e inovação. A cidade abriga uma crescente comunidade de tecnologia e segurança cibernética, que se fortalece através de iniciativas como o OWASP Chapter Salvador, promovendo a educação e colaboração na área de segurança de aplicações.
 
