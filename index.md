@@ -5,7 +5,7 @@ title: OWASP Salvador
 tags: example-tag
 region: South America
 country: Brazil
-meetup-group:
+meetup-group: salvador-open-source-intelligence-meetup-group
 
 ---
 
