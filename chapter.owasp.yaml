@@ -1,0 +1,30 @@
+leaders:
+  - name: Leonardo Rosário
+    email: leonardo.rosario@owasp.org
+    github: lrosario
+  - name: Eugênio Nunes
+    email: eugenio.nunes@owasp.org
+  - name: Daniel Guedes
+    email: daniel.guedes@owasp.org
+  - name: Manoelito Filho
+    email: manoelito.filho@owasp.org
+  - name: Wesley Sampaio
+    email: wesley.sampaio@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Bahia
+  city: Salvador
+  latitude: -12.9822499
+  longitude: -38.4812772
+meetup_group: salvador-open-source-intelligence-meetup-group
+name: OWASP Salvador
+repositories:
+  - name: www-chapter-salvador
+    url: https://github.com/OWASP/www-chapter-salvador
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-salvador
